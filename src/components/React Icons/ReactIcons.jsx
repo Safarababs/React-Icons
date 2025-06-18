@@ -38,7 +38,7 @@ const DetailedIconSheet = forwardRef((_, ref) => (
         WebkitBackgroundClip: "text",
         WebkitTextFillColor: "transparent",
         textShadow: "0 2px 8px rgba(79,140,255,0.10)",
-        paddingTop: "1.5rem",
+        // paddingTop: "1.5rem",
       }}
     >
       <span role="img" aria-label="sparkles">
