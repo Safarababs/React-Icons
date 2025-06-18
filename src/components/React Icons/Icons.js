@@ -551,6 +551,18 @@ export const iconsByCategory = [
         importLine: `import { MdSettings } from 'react-icons/md';`,
         example: `<MdSettings size={28} />`,
       },
+      {
+        icon: <FaLock size={28} />,
+        name: "FaLock",
+        importLine: `import { FaLock } from 'react-icons/fa';`,
+        example: `<FaLock size={28} />`,
+      },
+      {
+        icon: <FaUnlock size={28} />,
+        name: "FaUnlock",
+        importLine: `import { FaUnlock } from 'react-icons/fa';`,
+        example: `<FaUnlock size={28} />`,
+      },
     ],
   },
   {
